@@ -6,4 +6,4 @@ let num = 15-1
 let num = "This is not a number"
 let blank
 console.log(blank);
-null blank
+null = blank
