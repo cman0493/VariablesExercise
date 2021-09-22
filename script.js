@@ -1,9 +1,13 @@
 //const
-let num =20
-let num = 15
-let num = 15+7
-let num = 15-1
-let num = "This is not a number"
-let blank
+let num = 20;
+num = 15;
+num = num + 7;
+num--;
+num = "This is not a number";
+let blank;
 console.log(blank);
-null = blank
+blank = null;
+const quarter = 0.25, dime = 0.10, nickel = 0.05, penny = 0.01;
+console.log(quarter, dime, nickel, penny);
+let letters = "qwertyuiop";
+console.log(letters[letters.length - 1]);
